@@ -2,7 +2,7 @@
 
 # Overview
 
-A naive implementation of a configurable Ethernet Media Access Control (MAC) core supporting 10/100/1000 Mbps and multiple physical interfaces. Designed in SystemVerilog for FPGA/ASIC implementation.
+A naive implementation of a configurable Ethernet Media Access Control (MAC) core supporting 10/100/1000 Mbps and multiple physical interfaces (currently only RGMII). Designed in SystemVerilog for FPGA/ASIC implementation.
 
 # Features
 
